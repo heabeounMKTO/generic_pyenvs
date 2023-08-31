@@ -1,0 +1,7 @@
+opencv-python
+jupyter-notebook
+numpy
+scipy
+matplotlib
+json
+
