@@ -1,4 +1,6 @@
+detect_server
 yolov7
 notebook
 sam
 camera_calibration
+postgres
